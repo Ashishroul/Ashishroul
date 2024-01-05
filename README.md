@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 - 🔭 I’m currently working on **some front end project**
 
-- 👨‍💻 All of my projects are available at [[https://loquacious-clafoutis-797486.netlify.app/](https://loquacious-clafoutis-797486.netlify.app/)](https://ashishroul.github.io/)
+- 👨‍💻 All of my projects are available at https://ashishroul.github.io/
 
 - 💬 Ask me about **Mern-Stack**
 
